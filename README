@@ -1,0 +1,4 @@
+The script takes EXIF GPS metadata from image files (or whatever) and puts it into
+a GeoRSS formatted XML file suitable for upload into Bing Maps.
+
+See http://trustedsignal.blogspot.com/2012/02/plotting-photo-location-data-with-bing.html for details.
